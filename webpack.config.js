@@ -20,7 +20,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'example.js',
     library: {
-        name: 'example',
+        name: 'Example',
         type: 'umd'
     },
   },
